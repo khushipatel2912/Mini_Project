@@ -1,0 +1,6 @@
+khushi123:2912:customer
+emp1:emp1008:employee
+admin:a1008:admin
+manager:m1008:manager
+emp2:emp2912:employee
+cust2:c1008:customer
